@@ -1,0 +1,59 @@
+{
+  "slug": "glitz-caterers-n-events-kollam",
+  "name": "Glitz Caterers N Events",
+  "shortName": "Glitz",
+  "descriptor": "Catering & Events",
+  "address": "Kureepally, Thrikkovilvattom, Keralam 691576",
+  "area": "Thrikkovilvattom",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691576",
+  "geo": {
+    "lat": 8.9108021,
+    "lng": 76.6799759
+  },
+  "mapsLink": "https://maps.google.com/?cid=4422625792907617496",
+  "phone": "+91 83300 08090",
+  "whatsapp": "918330008090",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 107,
+  "reviews": [
+    {
+      "name": "Gokul S",
+      "rating": 5,
+      "quote": "Had a great experience with Glitz Team. Overall service provided for my wedding reception event was well coordinated. The decoration and the lighting arrangements were excellent .Also the food was delicious.We all are happy with the service provided and would recommend to everyone. Thanks to the whole Glitz family."
+    },
+    {
+      "name": "jubz Creations",
+      "rating": 5,
+      "quote": "My daughter’s christening decorations and catering were organised by Glitz Caters and Events. They are so professional, and have done very impressive work. The food was really delicious and yummy. Mr. Johnson and Mr.Santhosh ,both are very friendly and easy approachable . Definitely recommend their service"
+    },
+    {
+      "name": "Lithin Koshy",
+      "rating": 5,
+      "quote": "Had a great experience with Glitz. Team was well coordinated and connected.We were happy with the service and would recommend to others.Kudos to Santhosh bro for being part of the family and making our day special. Thanks to the whole Glitz fam."
+    },
+    {
+      "name": "Linish Alex",
+      "rating": 5,
+      "quote": "For my cousin engagement today , I came from london , I really enjoyed there event management team , Special thanks to Glitz , wonderful creativity and awesome stage plus all team , special thanks it was awesome and lovely food as well , we really enjoyed , God bless your team Linish Alex & family London"
+    },
+    {
+      "name": "Neethu S Roy",
+      "rating": 5,
+      "quote": "Thank you for making our engagement day so special and memorable. The creativity, dedication, and flawless execution exceeded our expectations. Our guests loved the arrangements. Truly grateful to the entire team!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://glitz-caterers-n-events-kollam.vercel.app"
+}
